@@ -315,24 +315,7 @@ IoMT-IOH-Prediction
 │   ├── Multiscale_feature.png
 │   └── Trade-off.png
 │
-├── data/
-│
-├── preprocessing/
-│   ├── segmentation.py
-│   ├── augmentation.py
-│
-├── models/
-│   ├── multiscale_tcn.py
-│   ├── attention.py
-│
-├── training/
-│   ├── train.py
-│
-├── evaluation/
-│   ├── evaluate.py
-│
-├── requirements.txt
-│
+├── Main/
 └── README.md
 ```
 
@@ -373,11 +356,11 @@ IoMT-IOH-Prediction
 If you find this work useful, please cite:
 
 ```bibtex
-@article{abbas2025iomtioh,
+@article{Ullah2025iomtioh,
   title={An IoT-Enabled Multi-Scale Temporal Deep Learning Framework for Early Prediction of Intraoperative Hypotension Using Continuous Arterial Pressure Signals},
-  author={Abbas, Zeeshan and Abbas, Zeeshan and Rehman, Mobeen Ur},
+  author={Ullah, Farman and Abbas, Zeeshan and Rehman, Mobeen Ur},
   journal={Internet of Things},
-  year={2025}
+  year={2026}
 }
 ```
 
